@@ -1,4 +1,5 @@
 Lớp: 08_ĐH_TMDT, Họ tên : Hà Duy Thành, MSSV: 0850070048
+Project: weather, có bài 2 kèm trong.
 # weatherapp
 
 A new Flutter project.
